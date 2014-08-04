@@ -1,0 +1,23 @@
+{
+    "name":        "corpsee/php-application-sample",
+    "description": "Sample of PHP application/library with composer and PSR support",
+    "license":     "GPLv3",
+    "authors":     [
+        {
+            "name":  "Corpsee",
+            "email": "poisoncorpsee@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PHPApplicationSample\\":        "src",
+            "PHPApplicationSample\\Tests\\": "tests/src"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
+    }
+}
