@@ -16,8 +16,8 @@ namespace PHPApplicationSample;
  * @package PHPApplicationSample
  * @author  Corpsee <poisoncorpsee@gmail.com>
  */
-class ApplicationClass {
-
+class ApplicationClass
+{
     const VERSION = '1.0.0';
 
     public function run()
