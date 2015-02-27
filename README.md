@@ -10,3 +10,8 @@ PHP Application Sample
 ======================
 
 Sample of PHP application/library with composer and PSR support.
+
+License
+-------
+
+The Nameless debug package is open source software licensed under the GPL-3.0 license.
