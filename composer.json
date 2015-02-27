@@ -1,7 +1,7 @@
 {
     "name":        "corpsee/php-application-sample",
     "description": "Sample of PHP application/library with composer and PSR support",
-    "license":     "GPLv3",
+    "license":     "GPL-3.0",
     "authors":     [
         {
             "name":  "Corpsee",
