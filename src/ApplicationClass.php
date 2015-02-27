@@ -24,4 +24,4 @@ class ApplicationClass {
     {
         echo 'PHP Application Sample. v' . self::VERSION . PHP_EOL;
     }
-} 
+}

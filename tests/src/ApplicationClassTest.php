@@ -11,4 +11,4 @@ class ApplicationClassTest extends \PHPUnit_Framework_TestCase
         $application = new ApplicationClass();
         $this->assertInstanceOf('PHPApplicationSample\\ApplicationClass', $application);
     }
-} 
+}
