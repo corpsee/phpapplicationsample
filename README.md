@@ -8,7 +8,7 @@
 PHP application sample
 ======================
 
-Sample of PHP application/library with composer and PSR support.
+Sample of PHP application/library compliant with PSR-1, PSR-2 and PSR-4 for PHP 5.4+ and composer.
 
 Installation
 ------------
