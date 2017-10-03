@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/packagist/l/corpsee/php-application-sample.svg?label=License&style=flat-square)](https://packagist.org/packages/corpsee/php-application-sample)
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/31e77222-8786-446a-adee-209163ab1b37.svg?label=Insight&style=flat-square)](https://insight.sensiolabs.com/projects/31e77222-8786-446a-adee-209163ab1b37)
 
+**This package is abandoned and no longer maintained.**
+
 PHP application sample
 ======================
 
