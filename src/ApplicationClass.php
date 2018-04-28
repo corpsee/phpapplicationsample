@@ -3,9 +3,9 @@
 /**
  * PHP Application Sample
  *
- * @copyright    Copyright 2018, Orbit Tecnologies
- * @license      https://github.com/OrbitTechnology/php-application-sample/blob/master/LICENSE
- * @link         https://github.com/OrbitTechnology/php-application-sample
+ * @copyright    Copyright 2018, Orbit Technologies
+ * @license      https://github.com/OrbitTechnology/phpapplicationsample/blob/master/LICENSE
+ * @link         https://github.com/OrbitTechnology/phpapplicationsample
  */
 
 namespace PHPApplicationSample;
@@ -14,7 +14,7 @@ namespace PHPApplicationSample;
  * Class ApplicationClass
  *
  * @package PHPApplicationSample
- * @author  Corpsee <poisoncorpsee@gmail.com>
+ * @author  Orbit Technologies <dev@omega-grid.org>
  */
 class ApplicationClass
 {
