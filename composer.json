@@ -2,12 +2,16 @@
     "name":        "orbittechnology/phpapplicationsample",
     "description": "Sample of PHP application/library with composer and PSR support",
     "license":     "GPL-3.0",
-    "authors":     [
-        {
-            "name":  "Orbit Technologies",
-            "email": "dev@omega-grid.org"
-        }
-    ],
+    "authors": [
+    {
+        "name":  "Dmitry Khomutov",
+        "email": "poisoncorpsee@gmail.com"
+    },
+    {
+        "name":  "Orbit Technologies",
+        "email": "dev@omega-grid.org"
+    }
+],
     "autoload": {
         "psr-4": {
             "PHPApplicationSample\\":        "src",
