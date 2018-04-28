@@ -17,7 +17,7 @@ You can install PHP application sample by composer. Add following code to "requi
 
 ```javascript
 "require": {
-    "OrbitTechnology/php-application-sample": "1.0.*"
+    "OrbitTechnology/phpapplicationsample": "1.0.*"
 }
 ```
 
