@@ -3,9 +3,9 @@
 /**
  * PHP Application Sample
  *
- * @copyright    Copyright 2014, Corpsee.
- * @license      https://github.com/corpsee/php-application-sample/blob/master/LICENSE
- * @link         https://github.com/corpsee/php-application-sample
+ * @copyright    Copyright 2018, Orbit Tecnologies
+ * @license      https://github.com/OrbitTechnology/php-application-sample/blob/master/LICENSE
+ * @link         https://github.com/OrbitTechnology/php-application-sample
  */
 
 namespace PHPApplicationSample;
