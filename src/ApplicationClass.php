@@ -3,9 +3,11 @@
 /**
  * PHP Application Sample
  *
- * @copyright    Copyright 2018, Orbit Technologies
- * @license      https://github.com/OrbitTechnology/phpapplicationsample/blob/master/LICENSE
- * @link         https://github.com/OrbitTechnology/phpapplicationsample
+ * @copyright Copyright 2018, Orbit Technologies
+ * @license   https://github.com/OrbitTechnology/phpapplicationsample/blob/master/LICENSE
+ * @link      https://github.com/OrbitTechnology/phpapplicationsample
+ * @author    Dmitry Khomutov <poisoncorpsee@gmail.com>
+ * @author    Nolan Perry <hollow@omega-grid.org>
  */
 
 namespace PHPApplicationSample;
