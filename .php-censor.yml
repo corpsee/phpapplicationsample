@@ -38,4 +38,4 @@ test:
 
 complete:
   email:
-    default_mailto_address: poisoncorpsee@gmail.com
+    default_mailto_address: dev@omega-grid.org
