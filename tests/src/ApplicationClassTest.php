@@ -5,10 +5,13 @@ namespace PHPApplicationSample\Tests;
 use PHPApplicationSample\ApplicationClass;
 
 /**
- * Class ApplicationClassTest
+ * PHP Application Sample
  *
- * @package PHPApplicationSample\Tests
- * @author  Orbit Technologies <dev@omega-grid.org>
+ * @copyright Copyright 2018, Orbit Technologies
+ * @license   https://github.com/OrbitTechnology/phpapplicationsample/blob/master/LICENSE
+ * @link      https://github.com/OrbitTechnology/phpapplicationsample
+ * @author    Dmitry Khomutov <poisoncorpsee@gmail.com>
+ * @author    Nolan Perry <hollow@omega-grid.org>
  */
 class ApplicationClassTest extends \PHPUnit_Framework_TestCase
 {
