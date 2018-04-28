@@ -20,7 +20,7 @@ script:
 notifications:
   email:
     recipients:
-      - poisoncorpsee@gmail.com
+      - dev@omega-grid.org
 
     on_success: always
     on_failure: always
