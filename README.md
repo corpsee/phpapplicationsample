@@ -1,6 +1,6 @@
 [![PHP Censor](http://ci.php-censor.info/build-status/image/3?branch=master&label=PHPCensor&style=flat-square)](http://ci.php-censor.info/build-status/view/3?branch=master)
-[![Travis CI](https://api.travis-ci.org/OrbitTechnology/phpapplicationsample.svg?branch=master)](https://api.travis-ci.org/OrbitTechnology/phpapplicationsample.svg?branch=master)
-[![Latest Version](https://img.shields.io/packagist/v/corpsee/php-application-sample.svg?label=Version&style=flat-square)](https://packagist.org/packages/corpsee/php-application-sample)
+[![Travis CI](https://img.shields.io/travis/OrbitTechnology/phpapplicationsample/master.svg?label=Travis&style=flat-square)](https://travis-ci.org/OrbitTechnology/phpapplicationsample)
+[![Latest Version](https://img.shields.io/packagist/v/OrbitTechnology/phpapplicationsample.svg?label=Version&style=flat-square)](https://travis-ci.org/OrbitTechnology/phpapplicationsample)
 [![Total downloads](https://img.shields.io/packagist/dt/corpsee/php-application-sample.svg?label=Downloads&style=flat-square)](https://packagist.org/packages/corpsee/php-application-sample)
 [![License](https://img.shields.io/packagist/l/corpsee/php-application-sample.svg?label=License&style=flat-square)](https://packagist.org/packages/corpsee/php-application-sample)
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/31e77222-8786-446a-adee-209163ab1b37.svg?label=Insight&style=flat-square)](https://insight.sensiolabs.com/projects/31e77222-8786-446a-adee-209163ab1b37)
@@ -17,7 +17,7 @@ You can install PHP application sample by composer. Add following code to "requi
 
 ```javascript
 "require": {
-    "OrbitTechnology/phpapplicationsample": "1.0.*"
+    "OrbitTechnology/php-application-sample": "1.0.*"
 }
 ```
 
