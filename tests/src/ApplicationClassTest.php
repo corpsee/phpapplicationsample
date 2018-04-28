@@ -8,7 +8,7 @@ use PHPApplicationSample\ApplicationClass;
  * Class ApplicationClassTest
  *
  * @package PHPApplicationSample\Tests
- * @author  Corpsee <poisoncorpsee@gmail.com>
+ * @author  Orbit Technologies <dev@omega-grid.org>
  */
 class ApplicationClassTest extends \PHPUnit_Framework_TestCase
 {
