@@ -9,7 +9,7 @@ PHP application sample
 ======================
 
 Sample of PHP application/library compliant with PSR-1, PSR-2, PSR-4 and Composer for PHP 5.4+.
-
+Help is always appreciated, if you see a bug, feel free to squish it for us with a pull request.
 Installation
 ------------
 
